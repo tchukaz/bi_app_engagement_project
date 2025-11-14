@@ -14,4 +14,4 @@ This project demonstrates SQL, Python, and data analysis skills through a simula
 - Average Session Length
 - Country & Device Engagement Patterns
 
-Use this project as a BI example for portfolio or applications.
+
